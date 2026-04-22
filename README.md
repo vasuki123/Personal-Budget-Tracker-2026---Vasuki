@@ -1,5 +1,5 @@
 # Personal Budget Tracker 2026 - Vasuki
-# Personal Finance Budget Tracker 2026
+
 
 A personal finance budget tracker in Excel with 314 dynamic formulas, auto-calculating dashboards, and a Spending Insights tab that tells you exactly where your money is going and where to cut.
 
